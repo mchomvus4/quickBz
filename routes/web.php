@@ -10,7 +10,7 @@ use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\SubscribeController;
 use App\Http\Controllers\ChangePassword;
-use\App\Models\User;
+use App\Models\User;
 use Illuminate\Support\Facades\DB;
 /*
 |--------------------------------------------------------------------------
