@@ -10,12 +10,12 @@ use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\SubscribeController;
 use App\Http\Controllers\ChangePassword;
-use\App\Models\User;
+use App\Models\User;
 use Illuminate\Support\Facades\DB;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
-|--------------------------------------------------------------------------
+|----- ---------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
 | routes are loaded by the RouteServiceProvider within a group which
